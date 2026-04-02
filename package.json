@@ -3,7 +3,7 @@
   "displayName": "JetBrains Rider UI theme (fixed)",
   "description": "JetBrains Rider UI theme for Visual Studio Code",
   "version": "1.0.6",
-  "publisher": "Long Chau",
+  "publisher": "devxlogan",
   "icon": "images/rider_logo.png",
   "engines": {
     "vscode": "^2.0.0"
@@ -16,7 +16,7 @@
     "theme",
     "dark theme",
     "light theme",
-    "long chau",
+    "devxlogan",
     "jetbrains",
     "jetbrains theme",
     "jetbrains light theme",
