@@ -324,6 +324,7 @@
     },
     {
       "scope": [
+        "entity.name.type.delegate.cs",
         "entity.name.type.enum",
         "entity.name.type.struct"
       ],
